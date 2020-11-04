@@ -1,7 +1,8 @@
 ### QuizTime
 
-* [`The Quiz`](https://richardmshaw.github.io/QuizTime/)
-Simple coding quiz that asks you 5 coding related questions in random order.
+* [`Try it out here!`](https://richardmshaw.github.io/QuizTime/)
+
+A simple coding quiz that asks you 5 coding related questions in a random order.
 
 ![image](screenshots/quiz_start.png)
 
@@ -9,7 +10,6 @@ You have 75 seconds to respond to all of them and getting any question wrong wil
 ![image](screenshots/quiz_question.png)
 
 At the end, your score will be determinded by the amount of time you have left and you'll be asked to give your initals.
-
 ![image](screenshots/quiz_finish.png)
 
 Your highscore will be displayed to you and saved in your local storage so that you can see it any time.
