@@ -8,7 +8,7 @@ You have 75 seconds to respond to all of them and getting any question wrong wil
 
 At the end, your score will be determinded by the amount of time you have left and you'll be asked to give your initals.
 
-![image](quiz_finish.png)
+![image](screenshots/quiz_finish.png)
 
 Your highscore will be displayed to you and saved in your local storage so that you can see it any time.
-![image](quiz_highscores.png)
+![image](screenshots/quiz_highscores.png)
